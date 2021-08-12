@@ -3,6 +3,12 @@ A data layer code for react
 
 
 
+
+definition: A data layer which provides simplified access to data stored in persistent storage of some kind, such as an entity-relational database. This acronym is prevalently                 used in Microsoft environments. It can be accessed from anywhere in your projects using the codes below
+
+
+
+
 To access or modify the data layer from any codes use these lines of code
 
 
