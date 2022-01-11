@@ -44,7 +44,7 @@ const reducer = (state, action) => {
     case "SET_DATA":
       return{
         ...state,
-        data: action.data // pass in the data sent by App.js. In this case data is going to become "Hello World"
+        data: action.data // pass in the data sent by App.js. In this case the data is going to become "Hello World"
       };
     default:
       return state;
